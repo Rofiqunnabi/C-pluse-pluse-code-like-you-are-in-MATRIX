@@ -1,0 +1,20 @@
+Before Exam Prompt (study sheet from a question bank)
+
+ 1. Open the prompt and replace [[ WRITE THE SUBJECT NAME HERE ]] with your subject name (for example, Computer Graphics).
+ 2. Copy the whole prompt and paste it into a new Claude chat (free version).
+ 3. Claude will reply with only one word: Ready.
+ 4. Send your questions as a Word document, PDF, JPG images, or pasted text. Keep it to 25 questions or fewer per round.
+ 5. If you are sending files in several messages, write “more coming” with each one. Write “DONE” with the last one.
+ 6. Claude will give you a downloadable sheet.html file.
+ 7. Open sheet.html in Chrome. If the message at the top says WARNING, tell Claude.
+ 8. Press Ctrl+P and set: A4, Margins: None, Scale: 100%, Background graphics ON, Headers and footers OFF, Two-sided, Flip on long edge.
+
+In Exam Time Prompt (fast study sheet in the exam hall)
+
+ 1. Open the prompt and replace [[ WRITE THE SUBJECT NAME HERE ]] with your subject name.
+ 2. Copy the whole prompt and paste it into a new Claude chat (free version).
+ 3. Claude will reply with only one word: Ready.
+ 4. Send the JPG photos of the question paper and write which questions to solve, for example “Solve Q4, Q5, Q6, Q7”. Give 4 questions each time.
+ 5. Claude will give you a downloadable sheet.html file with 3 different-looking copies of the answers.
+ 6. Open sheet.html in Chrome. If the message at the top says WARNING, tell Claude.
+ 7. Press Ctrl+P and set: A4, Margins: None, Scale: 100%, Background graphics ON, Headers and footers OFF, single-sided. Print one page for each copy.
